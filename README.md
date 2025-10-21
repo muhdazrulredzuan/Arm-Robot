@@ -22,7 +22,7 @@ It demonstrates basic control and lifting ability for small objects.
 ---
 
 ## 📄 Project Report
-[View Full Report](Arm_Robot_[HEXABOT]Report.pdf)
+[View Full Report](Arm_Robot_[HEXABOT] Report.pdf)
 
 ---
 
