@@ -22,7 +22,7 @@ It demonstrates basic control and lifting ability for small objects.
 ---
 
 ## 📄 Project Report
-[View Full Report](Arm_Robot_Report)
+[View Full Report](Arm_Robot_Report.pdf)
 
 ---
 
